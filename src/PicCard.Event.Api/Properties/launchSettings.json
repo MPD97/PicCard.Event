@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "PicCard.Event.Api": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:63137;http://localhost:63138"
+    }
+  }
+}
